@@ -1,2 +1,2 @@
 # Cykloida
-Projekt polega na rysowaniu i animowaniu odpowiedniej krzywej parametrycznej. 
+Projekt polega na rysowaniu i animowaniu odpowiedniej krzywej parametrycznej w srodowisku Python. 
